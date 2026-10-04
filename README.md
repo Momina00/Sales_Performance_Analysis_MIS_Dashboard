@@ -6,6 +6,13 @@ This project focuses on analyzing sales data using Microsoft Excel and presentin
 
 The goal was to turn raw sales data into useful business insights such as sales performance, profit, order volume, regional performance, and monthly sales trends.
 
+## Dashboard Preview
+
+The dashboard provides a quick overview of sales performance through KPI summaries and visual analysis of monthly sales, regional sales, category performance, and profit by region.
+
+
+<img width="830" height="477" alt="MIS_Sales_Dashboard_SS" src="https://github.com/user-attachments/assets/555b544e-f009-4de5-9740-eb18ccde6bf0" />
+
 ## Dataset
 
 The dataset contains **9,994 sales records** with information related to:
@@ -74,11 +81,6 @@ Sales-Performance-MIS-Dashboard/
 └── README.md
 ```
 
-## Dashboard Preview
 
-The dashboard provides a quick overview of sales performance through KPI summaries and visual analysis of monthly sales, regional sales, category performance, and profit by region.
-
-
-<img width="830" height="477" alt="MIS_Sales_Dashboard_SS" src="https://github.com/user-attachments/assets/555b544e-f009-4de5-9740-eb18ccde6bf0" />
 
 
