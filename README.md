@@ -72,3 +72,7 @@ Sales-Performance-MIS-Dashboard/
 ├── MIS_Sales_Performance.xlsx
 ├── Dashboard_Screenshot.png
 └── README.md
+```
+<img width="830" height="477" alt="MIS_Sales_Dashboard_SS" src="https://github.com/user-attachments/assets/555b544e-f009-4de5-9740-eb18ccde6bf0" />
+
+
