@@ -73,6 +73,12 @@ Sales-Performance-MIS-Dashboard/
 ├── Dashboard_Screenshot.png
 └── README.md
 ```
+
+## Dashboard Preview
+
+The dashboard provides a quick overview of sales performance through KPI summaries and visual analysis of monthly sales, regional sales, category performance, and profit by region.
+
+
 <img width="830" height="477" alt="MIS_Sales_Dashboard_SS" src="https://github.com/user-attachments/assets/555b544e-f009-4de5-9740-eb18ccde6bf0" />
 
 
